@@ -32,6 +32,3 @@ python src/evaluate.py    # Evaluate the model
 ## Results
 - Training accuracy: ~99%
 - Validation accuracy: ~92%
-
-## License
-Apache 2.0
