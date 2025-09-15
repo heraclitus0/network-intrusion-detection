@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow>=2.12
+cognize==0.1.8
